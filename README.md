@@ -6,18 +6,28 @@
 
 ```javascript
 const kalin: CivilEngineer & SoftwareDeveloper = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript"],
-    technologies: {
-        backEnd: ["Node.js", "Express"],
-        frontEnd: ["React", "Angular"],
-        devOps: [ "Docker 🐳", "Kubernetes"],
-        databases: ["MySQL", "MongoDB"]
-    },
-    education: ["Software University of Sofia", "UACG of Sofia"],
-    languages: ["English", "German"],
-    civilEngineeringSkills:["Problem-solving", "Responsible", "Analytical & Crytical thinking","Attention to detail", "Sustainable development", "Adoptability & Flexibility", "Communication & Dyplomatic", "Project management", "Teamwork"]
-    hobbies: ["Nature walks", "Cycling", "Skiing", "Reading Books"],
-    goal: "Merging Construction and Code"
+  pronouns: 'He' | 'Him',
+  code: ['JavaScript', 'TypeScript'],
+  technologies: {
+    backEnd: ['Node.js', 'Express'],
+    frontEnd: ['React', 'Angular'],
+    devOps: ['Docker 🐳', 'Kubernetes'],
+    databases: ['MySQL', 'MongoDB'],
+  },
+  education: ['Software University of Sofia', 'UACG of Sofia'],
+  languages: ['English', 'German'],
+  civilEngineeringSkills: [
+    'Problem-solving',
+    'Responsible',
+    'Analytical & Crytical thinking',
+    'Attention to detail',
+    'Sustainable development',
+    'Adoptability & Flexibility',
+    'Communication & Dyplomatic',
+    'Project management',
+    'Teamwork',
+  ],
+  hobbies: ['Nature walks', 'Cycling', 'Skiing', 'Reading Books'],
+  goal: 'Merging Construction and Code',
 };
 ```
