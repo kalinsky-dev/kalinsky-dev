@@ -7,14 +7,14 @@
 ```javascript
 const kalin: CivilEngineer & SoftwareDeveloper = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript"],
+    code: ["JavaScript", "TypeScript"],
     technologies: {
         backEnd: ["Node.js", "Express"],
         frontEnd: ["React", "Angular"],
         devOps: [ "Docker 🐳", "Kubernetes"],
         databases: ["MySQL", "MongoDB"]
     },
-    education: ["Software University of Sofia", "UACG Sofia"],
+    education: ["Software University of Sofia", "UACG of Sofia"],
     hobbies: ["Nature walks", "Cycling", "Skiing", "Reading Books"],
     languages: ["English", "German"],
     goal: "Merging Construction and Code"
