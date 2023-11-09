@@ -25,7 +25,7 @@ const kalin: SoftwareDeveloper & CivilEngineer = {
     'Communication & Dyplomatic',
     'Project management & Teamwork',
   ],
-  hobbies: ['Nature walks', 'Cycling', 'Skiing', 'Reading Books'],
+  hobbies: ['Nature walks', 'Cycling', 'Skiing', 'Competitive Gaming'],
   goal: 'Merging Construction and Code',
 };
 ```
