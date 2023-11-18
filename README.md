@@ -14,7 +14,7 @@ const kalin: SoftwareDeveloper & CivilEngineer = {
     devOps: ['Docker 🐳', 'Kubernetes'],
     databases: ['MySQL', 'MongoDB'],
   },
-  education: ['Software University of Sofia', 'UACG of Sofia'],
+  education: ['Software University of Sofia', 'UACEG of Sofia'],
   languages: ['English', 'German'],
   civilEngineeringSkills: [
     'Problem-solving & Responsible',
