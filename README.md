@@ -21,7 +21,7 @@ const kalin: SoftwareDeveloper & CivilEngineer = {
     'Analytical & Crytical thinking',
     'Ambitious & Attention to detail',
     'Sustainable development',
-    'Adoptability & Flexibility',
+    'Adaptability & Flexibility',
     'Communication & Dyplomatic',
     'Project management & Teamwork',
   ],
