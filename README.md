@@ -15,7 +15,6 @@ const kalin: SoftwareDeveloper & CivilEngineer = {
     databases: ['MySQL', 'MongoDB'],
   },
   education: ['Software University of Sofia', 'UACEG of Sofia'],
-  languages: ['English', 'German'],
   civilEngineeringSkills: [
     'Problem-solving skills & Ambitiousness',
     'Agile analytical thinking & Strong sense of responsibility',
@@ -27,5 +26,6 @@ const kalin: SoftwareDeveloper & CivilEngineer = {
   ],
   hobbies: ['Nature walks', 'Cycling', 'Skiing', 'Competitive Gaming'],
   goal: 'Merging Construction and Code',
+  languages: ['English', 'German'],
 };
 ```
