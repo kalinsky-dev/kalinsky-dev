@@ -18,7 +18,7 @@ const kalin: SoftwareDeveloper & CivilEngineer = {
   civilEngineeringSkills: [
     'Problem-solving skills & Ambitiousness',
     'Agile analytical thinking & Strong sense of responsibility',
-    'Communication skills & diplomatic approach',
+    'Communication skills & Diplomatic approach',
     'Adaptability & Flexibility',
     'Critical thinking & Leadership skills',
     'Sustainable development skills',
