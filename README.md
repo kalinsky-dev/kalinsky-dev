@@ -7,10 +7,10 @@
 ```javascript
 const kalin: SoftwareDeveloper & CivilEngineer = {
   pronouns: 'He' | 'Him',
-  code: ['JavaScript', 'TypeScript'],
+  code: ['TypeScript', 'JavaScript'],
   technologies: {
     backEnd: ['Node.js', 'Express'],
-    frontEnd: ['React', 'Angular'],
+    frontEnd: ['Next.js', 'React', 'Angular'],
     devOps: ['Docker 🐳', 'Kubernetes'],
     databases: ['MySQL', 'MongoDB'],
   },
