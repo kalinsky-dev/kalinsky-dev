@@ -11,7 +11,7 @@ const kalin: SoftwareDeveloper & StructuralEngineer = {
   technologies: {
     backEnd: ['Node.js', 'Express', 'Nest.js', 'Next.js'],
     frontEnd: ['React', 'Angular'],
-    devOps: ['AWS', 'Docker 🐳', 'Kubernetes', 'Grafana & Prometheus', 'Kibana & Elasticsearch'],
+    devOps: ['Linux', 'Docker 🐳', 'Networking', 'Kubernetes', 'AWS', 'Grafana & Prometheus', 'Kibana & Elasticsearch'],
     databases: ['MySQL', 'MongoDB'],
   },
   education: ['Software University of Sofia', 'UACEG of Sofia'],
