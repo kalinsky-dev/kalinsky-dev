@@ -9,9 +9,9 @@ const kalin: SoftwareDeveloper & StructuralEngineer = {
   pronouns: 'He' | 'Him',
   code: ['TypeScript', 'JavaScript'],
   technologies: {
-    backEnd: ['Node.js', 'Express'],
-    frontEnd: ['Next.js', 'React', 'Angular'],
-    devOps: ['Docker 🐳', 'Kubernetes'],
+    backEnd: ['Node.js', 'Express', 'Nest.js', 'Next.js'],
+    frontEnd: ['React', 'Angular'],
+    devOps: ['AWS', 'Docker 🐳', 'Kubernetes', 'Grafana & Prometheus', 'Kibana & Elasticsearch'],
     databases: ['MySQL', 'MongoDB'],
   },
   education: ['Software University of Sofia', 'UACEG of Sofia'],
