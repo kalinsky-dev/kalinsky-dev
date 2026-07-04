@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/kalinsky-dev)
 
 ```javascript
-const kalin: SoftwareDeveloper & CivilEngineer = {
+const kalin: SoftwareDeveloper & StructuralEngineer = {
   pronouns: 'He' | 'Him',
   code: ['TypeScript', 'JavaScript'],
   technologies: {
