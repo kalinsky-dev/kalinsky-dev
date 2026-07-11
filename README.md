@@ -11,8 +11,8 @@ const kalin: SoftwareEngineer & StructuralEngineer = {
   code: ['TypeScript', 'JavaScript', 'Bash', 'Fish'],
 
   technologies: {
-    backEnd: ['Node.js', 'Express', 'NestJS'],
-    frontEnd: ['React', 'Angular', 'Next.js'],
+    frontEnd: ['Angular', 'React'],
+    backEnd: ['Node.js', 'Express', 'NestJS', 'Next.js],
 
   devOps: {
       foundations: ['Linux', 'Git', 'Networking (TCP/IP, DNS, HTTP, TLS)'],
