@@ -12,7 +12,7 @@ const kalin: SoftwareEngineer & StructuralEngineer = {
 
   technologies: {
     frontEnd: ['Angular', 'React'],
-    backEnd: ['Node.js', 'Express', 'NestJS', 'Next.js],
+    backEnd: ['Node.js', 'Express', 'NestJS', 'Next.js'],
 
   devOps: {
       foundations: ['Linux', 'Git', 'Networking (TCP/IP, DNS, HTTP, TLS)'],
