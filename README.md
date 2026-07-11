@@ -28,7 +28,6 @@ const kalin: SoftwareEngineer & StructuralEngineer = {
   tools: ['Nginx', 'Redis', 'VS Code', 'WSL', 'SSH', 'Tailscale'],
 
   databases: ['MySQL', 'MongoDB'],
-
   },
 
   education: [
