@@ -13,7 +13,6 @@ const kalin: SoftwareEngineer & StructuralEngineer = {
   technologies: {
     frontEnd: ['Angular', 'React'],
     backEnd: ['NestJS', 'Next.js', 'Node.js', 'Express'],
-
     devOps: {
         foundations: ['Linux', 'Git', 'Networking (TCP/IP, DNS, HTTP, TLS)'],
         containers: ['Docker 🐳', 'Docker Compose'],
@@ -24,9 +23,7 @@ const kalin: SoftwareEngineer & StructuralEngineer = {
         observability: ['Prometheus', 'Grafana'],
         logging: ['ELK Stack (Elasticsearch, Kibana)'],
       },
-
     tools: ['Nginx', 'Redis', 'VS Code', 'WSL', 'SSH', 'Tailscale'],
-
     databases: ['MySQL', 'MongoDB'],
   },
 
