@@ -14,20 +14,20 @@ const kalin: SoftwareEngineer & StructuralEngineer = {
     frontEnd: ['Angular', 'React'],
     backEnd: ['NestJS', 'Next.js', 'Node.js', 'Express'],
 
-  devOps: {
-      foundations: ['Linux', 'Git', 'Networking (TCP/IP, DNS, HTTP, TLS)'],
-      containers: ['Docker 🐳', 'Docker Compose'],
-      orchestration: ['Kubernetes'],
-      infrastructureAsCode: ['Terraform'],
-      cloud: ['AWS (EC2, VPC, IAM, S3 fundamentals)'],
-      ciCd: ['GitHub Actions'],
-      observability: ['Prometheus', 'Grafana'],
-      logging: ['ELK Stack (Elasticsearch, Kibana)'],
-    },
+    devOps: {
+        foundations: ['Linux', 'Git', 'Networking (TCP/IP, DNS, HTTP, TLS)'],
+        containers: ['Docker 🐳', 'Docker Compose'],
+        orchestration: ['Kubernetes'],
+        infrastructureAsCode: ['Terraform'],
+        cloud: ['AWS (EC2, VPC, IAM, S3 fundamentals)'],
+        ciCd: ['GitHub Actions'],
+        observability: ['Prometheus', 'Grafana'],
+        logging: ['ELK Stack (Elasticsearch, Kibana)'],
+      },
 
-  tools: ['Nginx', 'Redis', 'VS Code', 'WSL', 'SSH', 'Tailscale'],
+    tools: ['Nginx', 'Redis', 'VS Code', 'WSL', 'SSH', 'Tailscale'],
 
-  databases: ['MySQL', 'MongoDB'],
+    databases: ['MySQL', 'MongoDB'],
   },
 
   education: [
