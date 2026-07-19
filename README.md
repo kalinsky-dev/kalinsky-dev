@@ -1,7 +1,7 @@
 ## Hi there! I'm Kalin 👋
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/kalin.hristov.5)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalinhristovdeveloper)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kalinhristovengineer)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/kalinsky-dev)
 
 ```javascript
